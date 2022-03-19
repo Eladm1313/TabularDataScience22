@@ -1,0 +1,7 @@
+efficient_apriori
+xgboost
+sklearn
+numpy
+pandas
+matplotlib
+#jupyter
