@@ -5,7 +5,7 @@ By: Sharon & Elad
 
 Project Report is attached `TabularDataFinalProject22.pdf`
 
-Code and project Demonstration can be viewed in the jupyter notebook (python3.8)
+Code and project Demonstration can be viewed in the jupyter notebook (python3) under `Notebook\TDS - Project demonstration.ipynb`
 
 
 # Running options:
