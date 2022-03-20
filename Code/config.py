@@ -8,7 +8,7 @@ from sklearn.neural_network import MLPRegressor
 from sklearn import neighbors
 from sklearn import linear_model
 
-DATA_DIR = "Database"
+DATA_DIR = os.path.join("..", "Database")
 DATA_FILENAME = "data.txt"
 
 NAN = -1
@@ -31,7 +31,7 @@ DATASETS = {
         'Path' : os.path.join(DATA_DIR, 'Iris', DATA_FILENAME)
     }
 }
-RESULTS_DIR = "Results"
+RESULTS_DIR = os.path.join("..", "Results")
 RESULTS_PATH = os.path.join(RESULTS_DIR, "{}")
 
 MODELS = {
